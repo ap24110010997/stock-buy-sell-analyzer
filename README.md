@@ -130,7 +130,7 @@ DP Profit: 7
 
 ---
 
- Future Improvements
+## Future Improvements
 
 *  Graph visualization
 *  Web interface
@@ -138,10 +138,10 @@ DP Profit: 7
 *  Transaction constraints
   
 ---
-TEAM MEMBERS:
+## TEAM MEMBERS:
 
-1)AP24110011006
-2)AP24110010997
-3)AP24110010982
-4)AP24110011034
-5)AP24110010936
+* AP24110011006
+* AP24110010997
+* AP24110010982
+* AP24110011034
+* AP24110010936
