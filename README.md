@@ -1,21 +1,21 @@
-# 📈 Stock Buy-Sell Analyzer
+## Stock Buy-Sell Analyzer
 
 ### Greedy & Dynamic Programming Approach
 
 ---
 
-## 📌 Project Description
+ ## Project Description
 
 The **Stock Buy-Sell Analyzer** is a Python project that calculates the **maximum profit** from stock prices using:
 
-* 🔹 Greedy Algorithm (efficient approach)
-* 🔹 Dynamic Programming (optimal approach)
+*  Greedy Algorithm (efficient approach)
+*  Dynamic Programming (optimal approach)
 
 It also displays **buy/sell transactions** and compares both methods.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze stock price data
 * Maximize profit using algorithms
@@ -24,7 +24,7 @@ It also displays **buy/sell transactions** and compares both methods.
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 * Python 3
 * VS Code / Any IDE
@@ -32,7 +32,7 @@ It also displays **buy/sell transactions** and compares both methods.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 stock-buy-sell-analyzer/
@@ -45,9 +45,9 @@ stock-buy-sell-analyzer/
 
 ---
 
-## 🧠 Algorithms Used
+##  Algorithms Used
 
-### 🔹 Greedy Algorithm
+###  Greedy Algorithm
 
 * Buys and sells whenever there is a profit opportunity
 * Works for unlimited transactions
@@ -57,7 +57,7 @@ stock-buy-sell-analyzer/
 
 ---
 
-### 🔹 Dynamic Programming
+###  Dynamic Programming
 
 * Checks all possible combinations
 * Ensures optimal solution
@@ -67,22 +67,22 @@ stock-buy-sell-analyzer/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/stock-buy-sell-analyzer.git
 cd stock-buy-sell-analyzer
 ```
 
-### 2️⃣ Run the Program
+### 2️ Run the Program
 
 ```bash
 python main.py
 ```
 
-### 3️⃣ Enter Input
+### 3 Enter Input
 
 ```
 Enter stock prices (space separated): 7 1 5 3 6 4
@@ -90,7 +90,7 @@ Enter stock prices (space separated): 7 1 5 3 6 4
 
 ---
 
-## 📊 Sample Input
+##  Sample Input
 
 ```
 7 1 5 3 6 4
@@ -98,7 +98,7 @@ Enter stock prices (space separated): 7 1 5 3 6 4
 
 ---
 
-## 📈 Sample Output
+##  Sample Output
 
 ```
 --- Results ---
@@ -111,7 +111,7 @@ DP Profit: 7
 
 ---
 
-## 🔍 Explanation
+##  Explanation
 
 * The program detects profitable buy/sell points
 * Greedy approach captures all increasing trends
@@ -119,7 +119,7 @@ DP Profit: 7
 
 ---
 
-## ⚖️ Comparison
+##  Comparison
 
 | Feature     | Greedy | DP      |
 | ----------- | ------ | ------- |
@@ -132,16 +132,16 @@ DP Profit: 7
 
  Future Improvements
 
-* 📊 Graph visualization
-* 🌐 Web interface
-* 📡 Live stock data
-* 🔒 Transaction constraints
+*  Graph visualization
+*  Web interface
+*  Live stock data
+*  Transaction constraints
   
 ---
 TEAM MEMBERS:
 
-AP24110011006
-AP24110010997
-AP24110010982
-AP24110011034
-AP24110010936
+1)AP24110011006
+2)AP24110010997
+3)AP24110010982
+4)AP24110011034
+5)AP24110010936
